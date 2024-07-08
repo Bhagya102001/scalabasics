@@ -55,6 +55,6 @@ object LoopFunc {
     //    }
     //    val ans = factorial(9)
     //    println(ans)
-   
+
   }
 }
