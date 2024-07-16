@@ -13,7 +13,6 @@ object assign1 {
 //    groupbyfirstchar.foreach { case (group, values) =>
 //      println(s"$group:${values.mkString(", ")}")
 //    }
-
     
   }
 }
